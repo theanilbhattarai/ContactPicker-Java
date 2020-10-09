@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContactPicker</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="please_add_atleast_3_emergency_contacts">Please add atleast 3 Emergency Contacts:</string>
+    <string name="contact_1">Contact 1</string>
+    <string name="add">+</string>
+    <string name="contact_2">Contact 2</string>
+    <string name="contact_3">Contact 3</string>
+    <string name="PhonenoEmpty">Phone Number is Empty</string>
+</resources>
